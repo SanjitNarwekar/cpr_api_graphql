@@ -18,7 +18,11 @@
     "express-graphql": "^0.9.0",
     "graphql": "^15.0.0"
   },
-  "author": "",
+  "author": "Sanjit Narwekar",
   "license": "ISC",
-  "description": ""
+  "repository": {
+    "type": "git",
+    "url": "https://github.com//SanjitNarwekar/cpr_api_graphql.git"
+  },
+  "description": "GraphQl Backend for CPR Project"
 }
